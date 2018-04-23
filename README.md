@@ -30,10 +30,5 @@ server {
     }
 }
 
-# This file is auto-generated.
-# If you want Laragon to respect your changes, just remove the [auto.] prefix
-# If you want to use SSL, enable it by going to Menu > Nginx > SSL > Enabled
-
-
 
 if need apache please edit core.php getUrl();
